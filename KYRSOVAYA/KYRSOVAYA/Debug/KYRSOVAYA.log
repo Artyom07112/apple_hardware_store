@@ -1,0 +1,16 @@
+﻿  1iPad.cpp
+  iPad.cpp
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\iPad.h(285,1): error C3688: недопустимый литеральный суффикс "iPad"; не удалось найти литеральный оператор или шаблон литерального оператора "operator ""iPad"
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\iPad.h(285,11): error C2065: ad: необъявленный идентификатор
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\iPad.h(285,1): error C2059: синтаксическая ошибка: user-defined literal
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\iPad.h(286,3): error C2065: ad: необъявленный идентификатор
+  MyForm.cpp
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\iPad.h(285,1): error C3688: недопустимый литеральный суффикс "iPad"; не удалось найти литеральный оператор или шаблон литерального оператора "operator ""iPad"
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\iPad.h(285,11): error C2065: ad: необъявленный идентификатор
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\iPad.h(285,1): error C2059: синтаксическая ошибка: user-defined literal
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\iPad.h(286,3): error C2065: ad: необъявленный идентификатор
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\iPhone1add1.h(214,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\MacOSadd1.h(213,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\Akssesadd.h(168,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\artik\source\repos\KYRSOVAYA\KYRSOVAYA\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
